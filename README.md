@@ -5,8 +5,8 @@ I focus on building practical tools, automating tasks, and solving problems thro
 
 ## Skills & Tools
 
-- Languages: Python, Lua 5.3, HTML, CSS, SQL, Regex, Bash
-- Familiar with: Networking basics, cryptography concepts, web server setup
+- Languages: Python, Lua 5.3, HTML, CSS, SQL, Regex, Bash  
+- Familiar with: Networking basics, cryptography concepts, web server setup  
 - Past experience: JavaScript and Node.js (not currently active)
 
 ## What I Do
@@ -21,6 +21,6 @@ This space is my archive, my lab, and my way of showing what I do best.
 
 ## Contact
 
-- Email: mazen001.ahmed001@gmail.com
+- Email: mazen001.ahmed001@gmail.com  
 - PayPal: [paypal.me/ephemeral8997](https://paypal.me/ephemeral8997)  
-- Dev.to: [dev.to/ephemeral8997](https://dev.to/ephemeral8997))
+- Dev.to: [dev.to/ephemeral8997](https://dev.to/ephemeral8997)
