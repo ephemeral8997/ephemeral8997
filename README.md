@@ -2,24 +2,21 @@ A better world begins with taking part, not just watching from the sidelines.
 
 # Hi, I'm ephemeral8997
 
-Self-taught developer with nearly a decade of hands-on experience.  
-I focus on building practical tools, automating tasks, and solving problems through code.
+A self-taught developer with nearly a decade of experience building practical tools, automating tasks, and solving problems through code.
 
 ## Skills & Tools
 
-- Languages: Python, Lua 5.3, HTML, CSS, SQL, Regex, Bash  
+- Languages: Python, Lua 5.3, HTML, CSS, SQL, Regex, Bash (I could be learning more)
 - Familiar with: Networking basics, cryptography concepts, web server setup  
 - Past experience: JavaScript and Node.js (not currently active)
 
 ## What I Do
 
-I’ve built a wide range of things: bots, scripts, utilities, workflow tools, broken system fixes, and more.  
-I value clean logic, simplicity, and solving real-world problems.
+I build and fix things, from bots and automation scripts to utilities and workflow tools. My focus is on clean logic and solving real-world problems.
 
 ## Why I’m Here
 
-I’m not here to talk big. I’m here to do the work, improve steadily, and keep building what I know.  
-This space is my archive, my lab, and my way of showing what I do best.
+To build, improve, and contribute. This space is where I maintain my projects, experiment, and share what I’ve done.
 
 ## Contact
 
