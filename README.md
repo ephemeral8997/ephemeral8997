@@ -1,3 +1,5 @@
+A better world begins with taking part, not just watching from the sidelines.
+
 # Hi, I'm ephemeral8997
 
 Self-taught developer with nearly a decade of hands-on experience.  
